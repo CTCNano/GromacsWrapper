@@ -97,8 +97,7 @@ GridMat-MD
 Citing
 ======
 
-If you find this package useful and use it in published work I'd be
-grateful if it was acknowledged in text as
+If you find this package useful and use it in published work, please cit the following:
 
   "... used GromacsWrapper (Oliver Beckstein,
   http://github.com/orbeckst/GromacsWrapper)"
@@ -116,30 +115,3 @@ Thank you.
                  "GridMAT-MD: A Grid-based Membrane Analysis Tool for
                  Use With Molecular Dynamics."  J. Comput. Chem. 30,
                  1952-1958.
-
-
-
-
-Download and Availability
-=========================
-
-The GromacsWrapper home page is
-http://github.com/orbeckst/GromacsWrapper.  The latest release of the
-package is being made available from https://github.com/orbeckst/GromacsWrapper/tags
-
-You can also clone the `GromacsWrapper git repository`_ or fork for
-your own development::
-
-  git clone git://github.com/orbeckst/GromacsWrapper.git
-
-
-
-Contact
-=======
-
-Please use the `Issue Tracker`_ to report bugs and feature requests;
-general feedback and inquiries can be sent to `Oliver Beckstein`_ by
-e-mail.
-
-.. _Issue Tracker: http://github.com/orbeckst/GromacsWrapper/issues
-.. _Oliver Beckstein: orbeckst@gmail.com
