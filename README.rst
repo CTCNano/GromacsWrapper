@@ -97,7 +97,7 @@ GridMat-MD
 Citing
 ======
 
-If you find this package useful and use it in published work, please cit the following:
+If you find this package useful and use it in published work, please cite the following:
 
   "... used GromacsWrapper (Oliver Beckstein,
   http://github.com/orbeckst/GromacsWrapper)"
